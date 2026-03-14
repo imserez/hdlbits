@@ -71,5 +71,3 @@ Vector manipulation, bitwise vs. logical operators, slicing, and replication.
 _Note: Additional vector exercises without graphical schematics (`vector4.sv`, `vector5.sv`) are also included in the source folder._
 
 ---
-
-> _"Hardware design is about translating logic into physical reality. These exercises lay the groundwork for my larger CPU and accelerator projects."_
