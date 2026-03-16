@@ -1,4 +1,4 @@
-# 🧩 HDLBits - SystemVerilog Solutions
+# HDLBits - SystemVerilog Solutions
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005288?style=flat-square&logo=verilog&logoColor=white)
 ![RTL Design](https://img.shields.io/badge/Hardware-RTL_Design-orange?style=flat-square)
@@ -10,7 +10,7 @@ As part of my focus on **FPGA architectures and low-level hardware development**
 
 ---
 
-## 📂 Repository Structure & Circuit Schematics
+## Repository Structure & Circuit Schematics
 
 Below is an index of my completed modules, mapped directly to their conceptual circuit diagrams.
 
@@ -23,9 +23,9 @@ Below is an index of my completed modules, mapped directly to their conceptual c
 
 ---
 
-### 🧱 2. Verilog Language
+### 2. Verilog Language
 
-#### 🔹 Basics
+#### Basics
 
 Fundamental logic gates, continuous assignments, and wire declarations.
 
@@ -40,7 +40,7 @@ Fundamental logic gates, continuous assignments, and wire declarations.
 | **XNOR Gate** | [`xnorgate.sv`](./Verilog_Language/Basics/xnorgate.sv)   | <img src="./Verilog_Language/Basics/img/xnorgate.png" width="150">  |
 | **7458 Chip** | [`7458_chip.sv`](./Verilog_Language/Basics/7458_chip.sv) | <img src="./Verilog_Language/Basics/img/7458_chip.png" width="200"> |
 
-#### 🏗️ Modules & Hierarchy
+####  Modules & Hierarchy
 
 Connecting modules, mapping ports by position/name, and hierarchical design.
 
@@ -54,7 +54,7 @@ Connecting modules, mapping ports by position/name, and hierarchical design.
 | **Module Add**     | [`add.sv`](./Verilog_Language/Modules_Hierarchy/add.sv)                     | <img src="./Verilog_Language/Modules_Hierarchy/img/add.png" width="150">           |
 | **Module FAdd**    | [`module_fadd.sv`](./Verilog_Language/Modules_Hierarchy/module_fadd.sv)     | <img src="./Verilog_Language/Modules_Hierarchy/img/module_fadd.png" width="250">   |
 
-#### 🔢 Vectors
+#### Vectors
 
 Vector manipulation, bitwise vs. logical operators, slicing, and replication.
 
